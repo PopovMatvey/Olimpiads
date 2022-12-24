@@ -1,0 +1,35 @@
+.app-content{
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  flex-wrap: wrap;
+}
+
+.app-content  .header{
+  width: 70%;
+  height: auto;
+}
+
+.app-content  .header h1{
+  font-size: 30px;
+  text-align: center;
+  font-weight: 100;
+}
+
+.buttons-block{
+  width: 70%;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.output-block{
+  width: 70%;
+  height: auto;
+}
+
+/* .output-block span{
+  
+} */
